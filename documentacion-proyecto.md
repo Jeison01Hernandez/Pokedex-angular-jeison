@@ -8,12 +8,8 @@
 |--------|---------|
 | **Nombre del Proyecto** | Pokedex Angular |
 | **Descrición** | Aplicación web interactiva para explorar información de Pokémon usando Angular y PokéAPI |
-| **Autor/Desarrollador** | Jeison Hernández |
-| **Institución** | Centro Educativo (Desarrollo Web) |
+| **Autor/Desarrollador** | Jeison Javier Diaz Hernandez |
 | **Módulo** | Desarrollo de Aplicaciones Web Front-end |
-| **Duración** | Proyecto Educativo - Semestral |
-| **Fecha de Inicio** | Repositorio del Profesor |
-| **Fecha de Finalización** | Mayo 2026 |
 | **Estado Actual** | Producción ✅ |
 | **URL de Despliegue** | https://polite-dune-0fd20d71e.7.azurestaticapps.net/ |
 | **Repositorio GitHub** | https://github.com/Jeison01hernandez/Pokedex-angular-jeison |
@@ -564,10 +560,10 @@ All major security headers present
 
 ## 📞 SOPORTE Y CONTACTO
 
-**Desarrollador:** Jeison Hernández  
+**Desarrollador:** Jeison Javier Diaz Hernandez  
 **Email:** javierhernandezhsgw@gmail.com  
 **GitHub:** https://github.com/Jeison01hernandez  
-**Repositorio:** https://github.com/Jeison01hernandez/Pokedex-angular-jeison  
+**Repositorio:** https://github.com/Jeison01hernandez/Pokedex-angular-jeison
 
 ---
 
